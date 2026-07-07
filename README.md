@@ -1,3 +1,12 @@
+# Deprected. 
+
+This repository is now deprecated. All issues with the Swiss AI models should be reported to:
+ - As a community discussions for relevant models on HuggingFace for functional failures 
+   - eg https://huggingface.co/swiss-ai/Apertus-70B-Instruct-2509/discussions for the Apertus v1.0 70B Instruct version
+   - eg https://huggingface.co/swiss-ai/Apertus-8B-Instruct-2509/discussions for the Apertus v1.0 8B Instruct version
+ - to security@apertus-ai.org for responsible disclosure of any safety- or security- critical applications
+ - to privacy@apertus-ai.org for any questions regarding personal information.
+
 # Apertus-Generation-Issues-Reports
 This is the repository for reporting issues with the SwissAI Apertus Model family generation
 
